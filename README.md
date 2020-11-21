@@ -19,9 +19,9 @@
 
 <h3 align="left">Try to find me:</h3>
 <p align="left">
-<a href="https://twitter.com/oliveruchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oliveruchi" height="30" width="40" /></a>
-<a href="https://instagram.com/@oliveremil12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@oliveremil12" height="30" width="40" /></a>
-<a href="https://wa.me/qr/3ALB55AX2TGPP1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-Contact%20me-brightgreen?logo=whatsapp&style=for-the-badge" alt="أوليفر جوميز👳🏾‍♂🧔🏽💪🏽" /></a>
+<a href="https://twitter.com/oliveruchi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-Contact%20me-brightgreen?logo=twitter&style=for-the-badge" alt="oliveruchi" /></a>
+<a href="https://www.instagram.com/oliveremil12/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-Contact%20me-brightgreen?logo=instagram&style=for-the-badge" alt="@oliveremil12" /></a>
+<a href="https://wa.me/qr/3ALB55AX2TGPP1" target="_blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-Contact%20me-brightgreen?logo=whatsapp&style=for-the-badge" alt="أوليفر جوميز👳🏾‍♂🧔🏽💪🏽" /></a>
 <a href="https://t.me/Domikar" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-Contact%20me-brightgreen?logo=telegram&style=for-the-badge" alt="@Domikar" /></a>
 </p>
 
